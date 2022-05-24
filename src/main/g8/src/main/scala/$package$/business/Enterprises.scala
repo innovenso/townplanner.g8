@@ -10,7 +10,7 @@ case class Enterprises()(implicit
   val $name;format="camel"$: Enterprise =
     ea describes Enterprise(title = "$name$") as { it =>
       it has Description(
-        "$description$"
+        ""
       )
     }
 }
