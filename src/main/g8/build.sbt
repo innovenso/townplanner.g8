@@ -13,6 +13,6 @@ lazy val townplan = project
   )
 
 val townplanner =
-  "com.innovenso.townplanner" % "innovenso-townplanner-application_2.13" % "1.19.1"
+  "com.innovenso.townplanner" % "innovenso-townplanner-application_2.13" % "1.19.2"
 val scalactic = "org.scalactic" %% "scalactic" % "3.2.11"
 val scalaTest = "org.scalatest" %% "scalatest" % "3.2.11" % "test"
